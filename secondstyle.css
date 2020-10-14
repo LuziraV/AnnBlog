@@ -108,6 +108,7 @@ margin: 0;
 }
 .article-1__img {
     background-image: url('article-secondpage.png');
+    background-repeat: no-repeat;
     width: 997px;
 height: 666.44px;
 }
