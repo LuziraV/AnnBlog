@@ -29,7 +29,7 @@ submitButton.onclick = function (evt) {
     newCommentDivOne.append(newCommentPone);
     newComment.append(newCommentDivTwo);
     newCommentDivTwo.append(newCommentPtwo);
-    newCommentImg.src='/img/ava-1.png';
+    newCommentImg.src='ava-1.png';
   charCounter.textContent = 0;
   
   };
