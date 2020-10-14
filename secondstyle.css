@@ -19,7 +19,7 @@ header {
 }
 .header {
     position: absolute;
-    background-image: url('../img/header-bg2.png');
+    background-image: url('header-bg2.png');
     width: 1440px;
     height: 581px;
     left: 0px;
@@ -60,7 +60,7 @@ header {
     font-weight: 400;
 }
 .header__logo {
-    background-image: url(../img/logo.png);
+    background-image: url('logo.png');
     background-repeat: no-repeat;
 
     position: absolute;
@@ -107,7 +107,7 @@ margin: 0;
     justify-content: space-between;
 }
 .article-1__img {
-    background-image: url(../img/article-secondpage.png);
+    background-image: url('article-secondpage.png');
     width: 997px;
 height: 666.44px;
 }
@@ -140,7 +140,7 @@ height: 666.44px;
 }
 .heart {
   
-    background-image: url(/img/like.svg);
+    background-image: url('like.svg');
     opacity: 0.7;
     
     /* min-width: 100px; */
@@ -158,7 +158,7 @@ height: 666.44px;
     cursor: pointer;
 }
 .added {
-    background-image: url(/img/like-added.svg);
+    background-image: url('like-added.svg');
     opacity: 0.7;
     
     /* min-width: 100px; */
